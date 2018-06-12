@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockView", "ClockView\ClockView.csproj", "{9FD54809-7046-416D-955D-828107B6034F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD54809-7046-416D-955D-828107B6034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD54809-7046-416D-955D-828107B6034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD54809-7046-416D-955D-828107B6034F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9FD54809-7046-416D-955D-828107B6034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD54809-7046-416D-955D-828107B6034F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD54809-7046-416D-955D-828107B6034F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CB6D44-E6E8-4A35-83A4-49A7A3D9C459}
+	EndGlobalSection
+EndGlobal
