@@ -6,12 +6,12 @@ using System.Text;
 using Android.App;
 using Android.Content;
 using Android.Graphics;
-using Android.Icu.Util;
 using Android.OS;
 using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
+using Java.Util;
 using static Android.Graphics.Paint;
 
 namespace ClockView
@@ -148,6 +148,8 @@ namespace ClockView
 
                 canvas.Restore();
             }
+
+            var hour = calendar.Get(CalendarField.Hour);
         }
     }
 }
